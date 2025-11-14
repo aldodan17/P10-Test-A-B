@@ -2,8 +2,6 @@
 Análisis de Test A/B y priorización de hipótesis (ICE/RICE) para tienda online.
 
 📊 P10 — Test A/B & Priorización de Hipótesis (ICE / RICE)
-
-📁 Proyecto del Bootcamp de Análisis de Datos — TripleTen
 👤 Autor: Aldo Daniel Galván
 
 🧠 Descripción general del proyecto
